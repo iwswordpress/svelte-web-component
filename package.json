@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/iwswordpress.svelte-l11q4bt7-fork-l11q4gtg",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve N6nuprk7KzPPx1Vl8uIV --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
